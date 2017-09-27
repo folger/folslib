@@ -6,6 +6,6 @@
 
 ### Hello World
 ```python
-from folslib import utils
-utils.hello_world()
+import folslib
+folslib.hello_world()
 ```
